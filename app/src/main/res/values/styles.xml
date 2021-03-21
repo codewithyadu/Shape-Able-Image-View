@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <style name="ShapeAppearanceOverlay.CircularImageViewShape">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.CornerRadiusImageView">
+        <item name="cornerSize">10%</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.SelectedCornerRadiusImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">@dimen/dp_64</item>
+        <item name="cornerSizeTopLeft">@dimen/dp_64</item>
+        <item name="cornerSizeBottomRight">@dimen/dp_64</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.CornerCutImageView">
+        <item name="cornerFamily">cut</item>
+        <item name="cornerSize">@dimen/dp_32</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.SelectedCornerCutImageView">
+        <item name="cornerFamily">cut</item>
+        <item name="cornerSizeTopRight">@dimen/dp_96</item>
+        <item name="cornerSizeBottomLeft">@dimen/dp_96</item>
+    </style>
+
+</resources>

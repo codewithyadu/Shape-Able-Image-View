@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="circular_image_width">350dp</dimen>
+    <dimen name="circular_image_height">350dp</dimen>
+    <dimen name="circular_image_view_radius">175dp</dimen>
+
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_32">32dp</dimen>
+    <dimen name="dp_64">64dp</dimen>
+    <dimen name="dp_96">96dp</dimen>
+    <dimen name="dp_120">120dp</dimen>
+</resources>
